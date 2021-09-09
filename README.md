@@ -1,7 +1,8 @@
 Hi Reader!
 
-I just practised some basic JavaScript commands to create the good ol' rock-paper-scissors game! For now, it's only JavaScript and is accessible only through the console, but I hope to convert this to a GUI-based game as soon as I learn how to do it.
-
-It was super fun making it, and I strongly encourage you to do this if you're a JS noobie like I am!
+Here it is! My first actually-functional webpage! 
+This is a rock-paper-scissors game made using HTML5, CSS, and JavaScript. 
+While I had practiced how to use buttons in JS before, this was the first time I applied it to a situation. That was a little challenging, but super fun!
+This project helped me gain a wee bit more confidence with JavaScript, and if you want to conquer your fear, go ahead and give it a shot!
 
 ~Aditi
