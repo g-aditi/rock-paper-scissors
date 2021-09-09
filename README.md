@@ -8,4 +8,4 @@ Because I used Mozilla to test the website, it isn't quite compatible with Chrom
 
 ~Aditi
 
-PS: Watch it work [here]! (https://g-aditi.github.io/rock-paper-scissors/)
+PS: Watch it work [here](https://g-aditi.github.io/rock-paper-scissors/)!
