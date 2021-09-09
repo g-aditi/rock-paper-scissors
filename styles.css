@@ -1,0 +1,155 @@
+html {
+    /* background-color: #DDFFFF; */
+    background-image: url(./Images/page.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 180%;
+}
+
+h2 {
+    font-family: 'Homemade Apple', cursive;
+    font-size: 55px;
+    padding-left: 30%;
+    padding-top: 3%;
+}
+
+h4 {
+    font-family: 'Homemade Apple', cursive;
+    font-size: 30px;
+    padding-left: 40%;
+}
+
+.icons {
+    padding-left: 37%
+}
+
+.res-div {
+    /* background-color: yellowgreen;
+    width: 400px;
+    height: 135px;
+    border-radius: 40px;
+    border-style: dotted;
+    border-color: violet;
+    padding-left: 10px;
+    margin-left: 36.5%;
+    margin-top: 5%; */
+    text-align: center;
+}   
+
+#result {
+    font-family: 'Homemade Apple', cursive;
+    margin-left: 21.5%;
+    font-size: 25px;
+    width: 1000px;
+    height: 100px;
+}
+
+#playerRes {
+    font-family: 'Coming Soon', cursive;
+    font-size: 90px;
+    /* background-color: #F9C2FD;
+    width: 300px;
+    height: 80px; */
+    margin-top: 500px;
+    /* margin: 20px; */
+}
+
+#computerRes {
+    font-family: 'Coming Soon', cursive;
+    font-size: 90px;
+    /* background-color: #F9C2FD;
+    width: 300px;
+    height: 80px; */
+    margin-top: 500px;
+    margin-left: 55%;
+}
+
+#your-score {
+    font-family: 'Coming Soon', cursive;
+    font-size: 30px;
+    /* background-color: #F9C2FD;
+    width: 300px;
+    height: 80px; */
+    /* margin-top: 50px; */
+    margin-left: 10%; 
+    float: left;
+}
+
+#my-score {
+    font-family: 'Coming Soon', cursive;
+    font-size: 30px;
+    /* background-color: #F9C2FD;
+    width: 300px;
+    height: 80px; */
+    /* margin-top: 50px; */
+    margin-right: 10%;
+    float: right;
+}
+
+#playerRes, #computerRes {
+    display: inline;
+}
+
+#your-score, #my-score {
+    display: inline;
+}
+
+.rock {
+    background-image: url(./Images/rock.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 98px 98px;
+    width: 100px;
+    height: 100px;
+    border-radius: 98px;
+    color: transparent;
+    border-style: solid;
+    margin-right: 50px;
+}
+
+.rock:hover {
+    padding: 1px 1px;
+    box-shadow: #adb5bd 1px 2px 2px 2px;
+}
+
+.paper {
+    background-image: url(./Images/paper.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 98px 98px;
+    width: 100px;
+    height: 100px;
+    border-radius: 98px;
+    color: transparent;
+    border-style: solid;
+    margin-right: 50px;
+}
+
+.paper:hover {
+    padding: 1px 1px;
+    box-shadow: #adb5bd 1px 2px 2px 2px;
+}
+
+.scissors {
+    background-image: url(./Images/scissors.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 98px 98px;
+    width: 100px;
+    height: 100px;
+    border-radius: 98px;
+    color: transparent;
+    border-style: solid;
+    margin-right: 50px;
+}
+
+.scissors:hover {
+    padding: 1px 1px;
+    box-shadow: #adb5bd 1px 2px 2px 2px;
+}
+
+.my-icon {
+    background-image: url(./Images/me.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    size: 100px 100px;
+}
