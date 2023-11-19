@@ -23,21 +23,13 @@ h4 {
 }
 
 .res-div {
-    /* background-color: yellowgreen;
-    width: 400px;
-    height: 135px;
-    border-radius: 40px;
-    border-style: dotted;
-    border-color: violet;
-    padding-left: 10px;
-    margin-left: 36.5%;
-    margin-top: 5%; */
     text-align: center;
+    margin-left: 3%;
 }   
 
 #result {
     font-family: 'Homemade Apple', cursive;
-    margin-left: 21.5%;
+    margin-left: 15%;
     font-size: 25px;
     width: 1000px;
     height: 100px;
@@ -45,7 +37,7 @@ h4 {
 
 #playerRes {
     font-family: 'Coming Soon', cursive;
-    font-size: 90px;
+    font-size: 50px;
     /* background-color: #F9C2FD;
     width: 300px;
     height: 80px; */
@@ -55,33 +47,25 @@ h4 {
 
 #computerRes {
     font-family: 'Coming Soon', cursive;
-    font-size: 90px;
+    font-size: 50px;
     /* background-color: #F9C2FD;
     width: 300px;
     height: 80px; */
     margin-top: 500px;
-    margin-left: 55%;
+    margin-left: 70vw;
 }
 
 #your-score {
     font-family: 'Coming Soon', cursive;
-    font-size: 30px;
-    /* background-color: #F9C2FD;
-    width: 300px;
-    height: 80px; */
-    /* margin-top: 50px; */
-    margin-left: 10%; 
+    font-size: 15px;
+    margin-left: 5%; 
     float: left;
 }
 
 #my-score {
     font-family: 'Coming Soon', cursive;
-    font-size: 30px;
-    /* background-color: #F9C2FD;
-    width: 300px;
-    height: 80px; */
-    /* margin-top: 50px; */
-    margin-right: 10%;
+    font-size: 15px;
+    margin-right: 5%;
     float: right;
 }
 
